@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/dmgk/modules2tuple/apis"
+	"github.com/hartzell/modules2tuple/apis"
 )
 
 type Tuple struct {

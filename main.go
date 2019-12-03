@@ -7,7 +7,7 @@ import (
 	"path"
 	"text/template"
 
-	"github.com/dmgk/modules2tuple/tuple"
+	"github.com/hartzell/modules2tuple/tuple"
 )
 
 func main() {

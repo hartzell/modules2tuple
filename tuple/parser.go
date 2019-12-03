@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/dmgk/modules2tuple/apis"
+	"github.com/hartzell/modules2tuple/apis"
 )
 
 type Parser struct {
